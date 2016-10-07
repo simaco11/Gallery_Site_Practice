@@ -1,0 +1,52 @@
+.footerbtn li a:hover{
+	text-decoration: none;
+	color:#9d9d9d;
+
+
+}
+.footerbtn li a{
+	text-decoration: none;
+	color:#9d9d9d;
+}
+ /* KONTAKT FORMA */
+
+.forma{
+	margin-top: 120px;
+	margin-bottom: 100px;
+	vertical-align: center;
+
+}
+.forminput{
+	width: 100%;
+	max-width: 550px;
+}
+.textboxi{
+	width: 100% !important;
+	margin-bottom: 15px;
+}
+
+.commentarea{
+	max-width: 550px;
+}
+button{
+	margin-top: 20px;
+	width:100%;
+	padding: 10px 20px !important;
+}
+.footer{
+	position: absolute;
+	bottom:0px;
+	width:100%;
+}
+
+/* galerija*/
+.slike{
+	margin-top: 30px;
+	box-shadow: 5px 10px 15px grey;
+}
+.more-btn{
+	margin-left: 20px;
+	margin-bottom: 40px;
+
+}
+
